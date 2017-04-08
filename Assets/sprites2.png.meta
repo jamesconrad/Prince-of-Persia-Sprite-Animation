@@ -1,0 +1,1978 @@
+fileFormatVersion: 2
+guid: f4e3fb051abffba4b87092d4ea97ef17
+timeCreated: 1491598036
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: base
+    21300002: crouchS0
+    21300004: crouchS1
+    21300006: crouchS2
+    21300008: crouch0
+    21300010: crouchE0
+    21300012: crouchE3
+    21300014: crouchE4
+    21300016: crouchE5
+    21300018: ledgeGrab9
+    21300020: ledgeDrop0
+    21300022: ledgeDrop1
+    21300024: sprites_12
+    21300026: sprites_13
+    21300028: crouchE1
+    21300030: crouchE2
+    21300032: crouchE6
+    21300034: sprites_17
+    21300036: sprites_18
+    21300038: sprites_19
+    21300040: sprites_20
+    21300042: sprites_21
+    21300044: sprites_22
+    21300046: sprites_23
+    21300048: sprites_24
+    21300050: ledgeClimb0
+    21300052: runS0
+    21300054: runS1
+    21300056: runS2
+    21300058: runS3
+    21300060: runS4
+    21300062: runS5
+    21300064: runE0
+    21300066: runE1
+    21300068: runE2
+    21300070: runE3
+    21300072: runE4
+    21300074: runE5
+    21300076: sprites_39
+    21300078: sprites_40
+    21300080: sprites_41
+    21300082: run0
+    21300084: run1
+    21300086: run2
+    21300088: exit5
+    21300090: exit6
+    21300092: sprites_47
+    21300094: runS6
+    21300096: runS7
+    21300098: exit9
+    21300100: run3
+    21300102: sprites_103
+    21300104: sprites_104
+    21300106: sprites_105
+    21300108: sprites_106
+    21300110: sprites_107
+    21300112: sprites_108
+    21300114: sprites_109
+    21300116: sprites_110
+    21300118: sprites_111
+    21300120: sprites_112
+    21300122: sprites_113
+    21300124: sprites_114
+    21300126: jump0
+    21300128: jump1
+    21300130: jump2
+    21300132: jump3
+    21300134: jump4
+    21300136: jump5
+    21300138: jump6
+    21300140: jump7
+    21300142: jump8
+    21300144: jump9
+    21300146: jump10
+    21300148: jump11
+    21300150: jump12
+    21300152: sprites_128
+    21300154: sprites_129
+    21300156: runE11
+    21300158: sprites_131
+    21300160: sprites_132
+    21300162: sprites_133
+    21300164: sprites_134
+    21300166: sprites_135
+    21300168: sprites_136
+    21300170: sprites_137
+    21300172: sprites_138
+    21300174: runT0
+    21300176: runT1
+    21300178: runT2
+    21300180: runT3
+    21300182: runT4
+    21300184: runT5
+    21300186: runT6
+    21300188: runT7
+    21300190: runT8
+    21300192: runT9
+    21300194: runT10
+    21300196: runE6
+    21300198: runE7
+    21300200: runE8
+    21300202: runE9
+    21300204: runE10
+    21300206: sprites_155
+    21300208: sprites_156
+    21300210: sprites_157
+    21300212: sprites_158
+    21300214: sprites_159
+    21300216: rjump0
+    21300218: rjump1
+    21300220: rjump2
+    21300222: rjump3
+    21300224: rjump4
+    21300226: rjump5
+    21300228: rjump6
+    21300230: rjump7
+    21300232: rjump8
+    21300234: rjump9
+    21300236: turn0
+    21300238: turn1
+    21300240: turn2
+    21300242: step0
+    21300244: step1
+    21300246: step2
+    21300248: step3
+    21300250: step4
+    21300252: sprites_202
+    21300254: sprites_203
+    21300256: sprites_204
+    21300258: sprites_205
+    21300260: sprites_206
+    21300262: sprites_207
+    21300264: sprites_208
+    21300266: sprites_209
+    21300268: sprites_210
+    21300270: sprites_211
+    21300272: sprites_212
+    21300274: sprites_213
+    21300276: sprites_214
+    21300278: sprites_215
+    21300280: sprites_216
+    21300282: sprites_217
+    21300284: sprites_218
+    21300286: sprites_219
+    21300288: sprites_220
+    21300290: sprites_221
+    21300292: sprites_222
+    21300294: sprites_223
+    21300296: sprites_224
+    21300298: sprites_225
+    21300300: sprites_226
+    21300302: sprites_227
+    21300304: sprites_228
+    21300306: sprites_229
+    21300308: sprites_230
+    21300310: sprites_231
+    21300312: sprites_232
+    21300314: sprites_233
+    21300316: sprites_241
+    21300318: sprites_242
+    21300320: sprites_243
+    21300322: sprites_244
+    21300324: sprites_245
+    21300326: sprites_246
+    21300328: sprites_247
+    21300330: sprites_248
+    21300332: sprites_249
+    21300334: sprites_250
+    21300336: sprites_251
+    21300338: sprites_252
+    21300340: sprites_253
+    21300342: sprites_254
+    21300344: sprites_255
+    21300346: sprites_256
+    21300348: sprites_257
+    21300350: sprites_258
+    21300352: sprites_259
+    21300354: sprites_260
+    21300356: sprites_261
+    21300358: sprites_262
+    21300360: sprites_263
+    21300362: sprites_264
+    21300364: sprites_265
+    21300366: sprites_266
+    21300368: sprites_267
+    21300370: sprites_268
+    21300372: sprites_269
+    21300374: sprites_270
+    21300376: sprites_271
+    21300378: sprites_272
+    21300380: sprites_273
+    21300382: sprites_274
+    21300384: sprites_275
+    21300386: sprites_276
+    21300388: sprites_277
+    21300390: sprites_278
+    21300392: sprites_279
+    21300394: sprites_280
+    21300396: sprites_281
+    21300398: sprites_282
+    21300400: sprites_283
+    21300402: sprites_284
+    21300404: sprites_285
+    21300406: sprites_286
+    21300408: sprites_287
+    21300410: sprites_288
+    21300412: sprites_289
+    21300414: sprites_290
+    21300416: sprites_291
+    21300418: sprites_292
+    21300420: sprites_293
+    21300422: sprites_294
+    21300424: sprites_295
+    21300426: sprites_296
+    21300428: sprites_297
+    21300430: sprites_298
+    21300432: sprites_299
+    21300434: sprites_300
+    21300436: sprites_301
+    21300438: sprites_302
+    21300440: sprites_303
+    21300442: sprites_304
+    21300444: sprites_305
+    21300446: sprites_306
+    21300448: jump13
+    21300450: jump14
+    21300452: turn3
+    21300454: turn4
+    21300456: turn5
+    21300458: step5
+    21300460: step6
+    21300462: step7
+    21300464: ledgeGrab0
+    21300466: ledgeGrab1
+    21300468: ledgeGrab2
+    21300470: ledgeGrab3
+    21300472: ledgeGrab4
+    21300474: ledgeGrab5
+    21300476: ledgeGrab6
+    21300478: ledgeGrab7
+    21300480: ledgeGrab8
+    21300482: sprites_14
+    21300484: sprites_15
+    21300486: sprites_16
+    21300488: ledgeClimb1
+    21300490: ledgeClimb2
+    21300492: ledgeClimb3
+    21300494: ledgeClimb4
+    21300496: ledgeClimb5
+    21300498: ledgeClimb6
+    21300500: ledgeClimb7
+    21300502: ledgeClimb8
+    21300504: ledgeClimb9
+    21300506: ledgeClimb10
+    21300508: ledgeClimb11
+    21300510: exit0
+    21300512: exit1
+    21300514: exit2
+    21300516: exit3
+    21300518: exit4
+    21300520: exit7
+    21300522: exit8
+    21300524: falling
+    21300526: dead
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 6
+  spritePivot: {x: 0, y: 0}
+  spriteBorder: {x: 0, y: 46, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1072
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchS0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1072
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchS1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1072
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 17, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchS2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1072
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 21, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouch0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1072
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 19, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1072
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 17, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1072
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 8, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1072
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 5, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1072
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1072
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 14, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1072
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: crouchE6
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1072
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1016
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1016
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1016
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1016
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1016
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1016
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1017
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1017
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE2
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1017
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1017
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1017
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE5
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1017
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprites_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 970
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprites_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 970
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprites_41
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 970
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run0
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 968
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run1
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 968
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 968
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sprites_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 970
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1017
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runS7
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1017
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: run3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 968
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 697
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 697
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 697
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 697
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 697
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 697
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 697
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 697
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 697
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 697
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 697
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 697
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump12
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 697
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE11
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 582
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 640
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 640
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 640
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 640
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT5
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 640
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 640
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 640
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 640
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 640
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runT10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 640
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 582
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 582
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 582
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: runE10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 582
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 525
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 525
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 525
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 525
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 525
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 525
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 525
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump8
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 525
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rjump9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 525
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turn0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 467
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turn1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 467
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turn2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 467
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 408
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 408
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 408
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 408
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump13
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 697
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: jump14
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 697
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turn3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 467
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turn4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 467
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turn5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 467
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 408
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 408
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: step7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 408
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 232
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 232
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 232
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 232
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 232
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 232
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 232
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeGrab9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 232
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeDrop0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 232
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeDrop1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 232
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 105
+        width: 11
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 105
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 105
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 105
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb5
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 105
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb6
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 105
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 105
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 105
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb9
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 105
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 105
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ledgeClimb11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 105
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 46
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 46
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 46
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 46
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit7
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 45
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 46
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: exit9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 46
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: falling
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dead
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 298
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
